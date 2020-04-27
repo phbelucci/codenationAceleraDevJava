@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.calculadora.CalculadoraSalarioTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-21T22:18:46" hostname="LAPTOP-7614I53T" time="0.005">
+  <properties/>
+  <testcase name="salarioLiquidoIsNotNull" classname="br.com.codenation.calculadora.CalculadoraSalarioTest" time="0.005"/>
+  <system-out><![CDATA[9.1999999908E8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
